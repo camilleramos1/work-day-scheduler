@@ -10,7 +10,11 @@ Users are able to input tasks or projects within each timeblock. Using the blue 
 
 ## Screenshot of Site
 
+<img width="1263" alt="image" src="https://github.com/camilleramos1/work-day-scheduler/assets/129894673/cf6181f0-19d5-4497-bbbd-bf224f57ab7d">
+
 ## Link to Live Application
+
+
 
 ## Resources 
 
