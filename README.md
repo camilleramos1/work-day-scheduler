@@ -2,11 +2,11 @@
 
 ## Description
 
-Using starter code provided, I created a functioning work day scheduler. On this scheduler, you will be able to see the current time and date displayed in the header. 
+Using starter code provided, I created a functioning work day scheduler. On this scheduler, you will be able to see the current date and time displayed in the header. 
 
 As you scroll down the page, you will see timeblocks for standard business hours. Each timeblock is color coded to indicate whether that time is in the past, present, or future. For timeblocks in the past, the area will fill grey. For the current timeblock, the area will fill red. For any timeblocks in the future, the area will fill green. 
 
-Users are able to input tasks or projects within each timeblock. Using the blue save button on the right of each timeblock, the user is able to locally save the inputted tasks.
+Users are able to input tasks or projects within each timeblock. Using the blue save button on the right of each timeblock, the user is able to locally save the inputted tasks. Upon refresh of the page, the text persists where entered.
 
 ## Screenshot of Site
 
