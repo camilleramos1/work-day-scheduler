@@ -17,14 +17,16 @@ $(document).ready(function() {
   function hourTracker() {
     timeBlock.each(function () {
       var workHour = parseInt($(this).attr('id').match(/hour-(\d+)/)[1], 10);
-
+      // adds class "past" to any hour less than the current hour 
       if (workHour < currentHour) {
         $(this).addClass("past");
       }
+      // adds class "present" to the timeblock matching the current hour
       else if (workHour == currentHour) {
         $(this).removeClass("past");
         $(this).addClass("present");
       }
+      // adds class "future" to any remaining timeblocks
       else {
         $(this).removeClass("past");
         $(this).removeClass("present");
